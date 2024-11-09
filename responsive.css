@@ -1,5 +1,6 @@
-@media screen and (max-width: 428px) {
-    #top{
+@media only screen and (max-width: 428px) {
+    
+     #top{
       font-size: 0.99rem;
       letter-spacing: 1px;
      }
@@ -15,7 +16,7 @@
        font-family: cursive;
        box-shadow: none;
      }
-
+ 
     .bc-1, .bc-2, .bc-3, 
     .bc-4, .fog-1, .fog-2, 
     .shadows {
@@ -62,4 +63,5 @@
       height: 55px;
       padding: 0 40px;
     }
+   
 } 
