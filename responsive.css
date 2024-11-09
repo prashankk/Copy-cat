@@ -1,4 +1,20 @@
 @media screen and (max-width: 428px) {
+    #top{
+      font-size: 0.99rem;
+      letter-spacing: 1px;
+     }
+     .text h1:hover{
+      font-size: 30px;
+      opacity: 95%;
+     }
+     .about p{
+      display: flexbox;
+      position: static;
+       font-size: 20px;
+       height: 600px;
+       font-family: cursive;
+       box-shadow: none;
+     }
 
     .bc-1, .bc-2, .bc-3, 
     .bc-4, .fog-1, .fog-2, 
